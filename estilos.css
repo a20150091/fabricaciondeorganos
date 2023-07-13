@@ -1,0 +1,25 @@
+.body-encabezado {
+    background-color: darkturquoise;
+}
+
+.imagen-encabezado {
+    width: 18%;
+}
+
+.body-menu {
+    background-color: aquamarine;
+}
+
+.titulo-home {
+    color: crimson;
+    text-align: center;
+    font-size: 30px;
+}
+
+.titulo-contenido {
+    font-size: 40px;
+}
+
+.parrafo-contenido {
+    font-size: 24px;
+}

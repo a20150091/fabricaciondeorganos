@@ -1,0 +1,27 @@
+Caracteristicas del corazon:
+- El corazón es un órgano del tamaño aproximado de un puño. Está compuesto de tejido 
+muscular y bombea sangre a todo el cuerpo.La sangre se transporta a todo el cuerpo 
+a través de los vasos sanguíneos, unos tubos llamados arterias y venas.
+
+Técnica para su fabricación:
+- Para construir un corazón humano desde cero, los investigadores necesitan replicar las
+estructuras únicas que componen el corazón. Esto incluye la recreación de geometrías 
+helicoidales, que crean un movimiento de torsión a medida que late el corazón. 
+Durante mucho tiempo se ha teorizado que este movimiento de torsión es fundamental para 
+bombear sangre a grandes volúmenes, pero demostrarlo ha sido difícil, en parte porque la 
+creación de corazones con diferentes geometrías y alineaciones ha sido un desafío.
+Ahora, bioingenieros de la Escuela de Ingeniería y Ciencias Aplicadas John A. Paulson de 
+Harvard (SEAS) han desarrollado el primer modelo biohíbrido de ventrículos humanos con 
+células cardíacas latentes alineadas helicoidalmente, y han demostrado que la alineación 
+muscular, de hecho, aumenta drásticamente la cantidad de sangre que el ventrículo puede 
+bombear con cada contracción.
+
+Beneficios y propuestas de mejora:
+- El trasplante de corazón permite que los pacientes con insuficiencia cardíaca avanzada 
+puedan vivir más, mantenerse activas y con la posibilidad de conservar algunas de sus 
+rutinas habituales.
+Opinión
+Un trasplante de corazón se puede hacer para tratar: Daño grave al corazón después de un ataque cardíaco. Insuficiencia cardíaca grave cuando los medicamentos, otros tratamientos y la cirugía ya no sirvan. Anomalías cardíacas graves que estaban presentes al nacer y no se pueden reparar con cirugía.
+
+
+En mi opinion, me parece bien que los doctores o personas especialistas en medicina se ayuden de la tecnologia y descubran nuevos metodos para ayudar a personas, en este caso sobre la fabricación de órganos artificiales para trasplantes, ayuda a la ciencia a avanzar con pruebas de organos bioartificiales cy funcionales mediantes una impresoras 3D o etc, y esto es para las personas, salvando la vidas en un futuro.
